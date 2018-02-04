@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Quattrocento+Sans'); 
+
+body {
+	font-family: 'Quattrocento Sans', sans-serif; 
+}
+
+button {
+	font-family: 'Quattrocento Sans', sans-serif; 
+	background: transparent;
+	border: none;
+	padding: 0.5em; 
+	font-size: 1.3em;
+}
+
+#header {
+	display: flex;
+	font-size: 2em;
+	justify-content: center;
+	font-family: 'Amatic SC', cursive;
+}
+
+#navbar {
+	display: flex;
+	justify-content: space-around;
+/*	border-top: 0.1em solid;
+	border-bottom: 0.1em solid; */
+}
+
+.nav {
+	padding: 0.5em; 
+	cursor: pointer;
+}
