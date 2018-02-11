@@ -1,0 +1,13 @@
+{ 
+	"Recipe 1": {
+	"name": "Fancy Ramen 1", 
+	"ingredients": ["eggs", "ramen", "chicken", "vegetables", "soy sauce"],
+	"instructions" : [
+		"Prepare ramen as usual", 
+		"Microwave the grilled chicken and vegetables",
+		"Chop up and put into ramen",
+		"Drizzle a little bit of soy sauce",
+		], 
+	"suggest" : ["kimchi", "sesame oil", "tomatoes"]
+	},
+}
