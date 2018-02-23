@@ -1,0 +1,49 @@
+*** GITHUB ***
+
+git clone [url link] 
+- copies files into a folder with the same name 
+
+git add [name] 
+
+git status 
+
+git commit -m "-m is a message" 
+- commit is locking it 
+-A means "all"
+
+git push 
+- pushes it to the repository 
+
+git pull 
+- get the latest version 
+
+esc : wq 
+- use to get out of full blown commit 
+
+cd 
+goes to files 
+
+
+*** JAVASCRIPT ***
+
+string, array, int, undefined, variable 
+
+var name = "string"; 
+var num = 1; 
+
+end javascript with semicolon 
+can directly add values 
+array defined as: 
+var arr = [1,2,3]; 
+arr.length = 3; 
+index at 0 
+for loops are the same 
+
+alert(answer) 
+- pulls out a popup window with answer as the message 
+=== triple equlaity 
+
+
+*** NOTES FROM OH 2/11 *** 
+Save recipes as json file 
+
